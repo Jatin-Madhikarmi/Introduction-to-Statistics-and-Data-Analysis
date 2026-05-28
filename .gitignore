@@ -3,4 +3,6 @@
 venv/
 env/
 
-__pycache_/
+# Jupyter/Python extras
+.ipynb_checkpoints/
+__pycache__/
