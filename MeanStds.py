@@ -1,4 +1,5 @@
 import numpy as np
+from scipy.stats import poisson
 
 # Here we specify the value of the seed number becuase we want to reproduce the same result again and again if we omit this line then
 # everytime we get a new values for our poulation_data and hence all the other values like mean and standard deviation of populatin and
