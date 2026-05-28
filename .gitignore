@@ -1,0 +1,4 @@
+#Ignore the virtual folders
+.venv/
+venv/
+env/
